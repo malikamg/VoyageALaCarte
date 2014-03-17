@@ -8,7 +8,7 @@ import javax.microedition.lcdui.*;
 import javax.microedition.midlet.*;
 
 /**
- * @author asus
+ * @author asus malik
  */
 public class MidletVoyage extends MIDlet {
     Display disp = Display.getDisplay(this);
